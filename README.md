@@ -3,7 +3,7 @@
 
 ## Overview
 
-This code serves as an interim stop (step 2 of 4) in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
+This code serves as an interim stop in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
 
 It is the first in this video series "Nail Down Your WiFi":
 - **[ESP32 WiFi - Introduction To Events](https://www.youtube.com/watch?v=AT4uNl0lJK8)**
@@ -17,8 +17,14 @@ git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Clocking.git
 
 
 ### Getting Started - PlatformIO
-Just compile.
-
+- Set your WiFi credentials in ***src/main.cpp***
+- Compile and run
 
 ### Getting Started - Arduino IDE 
-In Arduino IDE, Open *clocker.ino* in the *clocker* folder, and compile.
+- In Arduino IDE, Open ***clocker.ino*** in the ***clocker*** folder
+- Set your WiFi credentials in ***clocker.ino***
+- Compile and run
+
+<br>
+*OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com)*
+
