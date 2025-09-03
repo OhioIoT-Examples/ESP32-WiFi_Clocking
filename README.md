@@ -5,7 +5,7 @@
 
 This code serves as an interim stop in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
 
-It is the first in this video series "Nail Down Your WiFi":
+"Nail Down Your WiFi":
 - **[ESP32 WiFi - Introduction To Events](https://www.youtube.com/watch?v=AT4uNl0lJK8)**
   **[ESP32 WiFi - Clocking Your Functions]([tbd])** <---- the video that explains this code
 
