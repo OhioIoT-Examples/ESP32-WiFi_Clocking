@@ -7,7 +7,7 @@ This code serves as an interim stop in a series of videos marching toward your n
 
 "Nail Down Your WiFi":
 - **[ESP32 WiFi - Introduction To Events](https://www.youtube.com/watch?v=AT4uNl0lJK8)**
-  **[ESP32 WiFi - Clocking Your Functions]([tbd])** <---- the video that explains this code
+- **[ESP32 WiFi - Clocking Your Functions]([tbd])** <---- the video that explains this code
 
 
 ## Getting Started
