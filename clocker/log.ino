@@ -1,4 +1,5 @@
-
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2025 OhioIoT, LLC
 
 
 void log (uint64_t start, uint64_t stop, uint64_t iterations, uint64_t benchmark) {
