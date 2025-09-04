@@ -3,11 +3,7 @@
 
 ## Overview
 
-This code serves as an interim stop in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
-
-"Nail Down Your WiFi":
-- **[ESP32 WiFi - Introduction To Events](https://www.youtube.com/watch?v=AT4uNl0lJK8)**
-- **[ESP32 WiFi - Clocking Your Functions]([tbd])** <---- the video goes with the code in this repository
+This code serves is an output from the YouTube video [ESP32 WiFi: Clock Your WiFi Check]([https://www.youtube.com/watch?v=AT4uNl0lJK8&list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME](https://www.youtube.com/watch?v=gvnCJa8mpu0)), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/c/OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
