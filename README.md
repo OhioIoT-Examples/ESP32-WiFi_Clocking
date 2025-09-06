@@ -2,7 +2,7 @@
 
 
 ## Overview
-This code serves is an output from the YouTube video [ESP32 WiFi: Clock Your WiFi Check](https://youtu.be/ByqUEEmW6Do), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/c/OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+This code serves is an output from the YouTube video [ESP32 WiFi - Fastest WiFi Check Using Events](https://youtu.be/ByqUEEmW6Do), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/c/OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
