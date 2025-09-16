@@ -21,5 +21,5 @@ git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Clocking.git
 - Compile and run
 
 <br>
-*OhioIoT is an IoT platform designed for small-scale IoT projects:  https://www.ohioiot.com*
+**OhioIoT is an IoT platform designed for small-scale IoT projects:  https://www.ohioiot.com**
 
