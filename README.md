@@ -7,7 +7,7 @@ This code serves is an output from the YouTube video [ESP32 WiFi - Fastest WiFi 
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Clocking.git
+git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Clocking.git
 ```
 
 
