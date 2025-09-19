@@ -1,13 +1,13 @@
-# WiFi: Clocking <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# ESP32 WiFi: Clock Your Connectivity Check <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
 
 
 ## Overview
-This code serves is an output from the YouTube video [ESP32 WiFi - Fastest WiFi Check Using Events](https://youtu.be/ByqUEEmW6Do), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+This code serves is an output from the YouTube video [ESP32 WiFi - Clock Your Connectivity Check](https://youtu.be/ByqUEEmW6Do), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Clocking.git
+git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Clock-Your-Connectivity-Check.git
 ```
 
 
