@@ -1,5 +1,4 @@
-# ESP32 WiFi: Clock Your Connectivity Check <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
-
+# ESP32 WiFi: Clock Your Connectivity Check <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 ## Overview
 This code serves is an output from the YouTube video [ESP32 WiFi - Clock Your Connectivity Check](https://youtu.be/ByqUEEmW6Do), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
