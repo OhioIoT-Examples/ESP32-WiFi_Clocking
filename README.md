@@ -7,7 +7,7 @@ This code serves is an output from the YouTube video [ESP32 WiFi - Clock Your Co
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Clock-Your-Connectivity-Check.git
+git clone https://github.com/OhioIoT-ESP32-WiFi-Examples/Clock-Your-Connectivity-Check.git
 ```
 
 
